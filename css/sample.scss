@@ -578,6 +578,25 @@ li {
     padding-bottom: 20px;
   }
   
+  #contents {
+      padding-top: 35px;
+      padding-bottom: 70px;
+  }
+
+  .three.columns {
+      width: 22%;
+  }  
+  
+  #contents #main {
+    padding-right: 20px;
+  }
+  
+  #contents #main .news_li li span {
+    display: inline-block;
+    margin-bottom: 0;
+    padding-right: 10px;
+  }
+
 }
 
 @media (max-width: 549px){
@@ -598,5 +617,4 @@ li {
 #contents #main th {
     padding-right: 20px;
 }
-
 
